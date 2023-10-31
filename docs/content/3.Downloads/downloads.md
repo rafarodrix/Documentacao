@@ -1,16 +1,4 @@
----
-title: Downloads
-navigation: true
-main:
-  fluid: false
----
-
-
-
-
 # Downloads
-
-
 
 ### Acesso Remoto
 ::card-grid
